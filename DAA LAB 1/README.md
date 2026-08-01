@@ -190,5 +190,5 @@ This repository contains the implementation of six Design and Analysis of Algori
 ## Author
 
 **Soumik Nayak**  
-**B525062CE**  
+**B525062**  
 **2nd Year - Computer Engineering**
