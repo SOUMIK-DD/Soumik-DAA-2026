@@ -103,6 +103,10 @@ Each toss is processed once.
    - 2ⁿ
 3. Store the results.
 4. Plot or print the comparison.
+5. ### Graph
+
+![Growth Rate Comparison](Images/growth_rate_graph.png)
+
 
 ### Time Complexity
 
