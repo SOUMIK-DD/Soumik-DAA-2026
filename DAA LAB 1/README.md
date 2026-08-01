@@ -3,7 +3,7 @@
 ## Student Information
 
 - **Name:** Soumik Nayak
-- **Roll Number:** B525062CE
+- **Roll Number:** B525062
 - **Year:** 2nd Year
 - **Department:** Computer Engineering
 
