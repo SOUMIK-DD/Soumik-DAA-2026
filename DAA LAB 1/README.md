@@ -105,7 +105,7 @@ Each toss is processed once.
 4. Plot or print the comparison.
 5. ### Graph
 
-![Growth Rate Comparison](Images/Tower of Hanoi- Number of moves vs number of disks.png)
+![Growth Rate Comparison](Images/Toh.png)
 
 
 ### Time Complexity
