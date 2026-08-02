@@ -57,6 +57,9 @@
    - Move largest disk to Destination.
    - Move n−1 disks from Auxiliary to Destination.
 3. Count total moves.
+4. ### Graph
+
+![Growth Rate Comparison](Images/Toh.png)
 
 ### Time Complexity
 
@@ -103,9 +106,6 @@ Each toss is processed once.
    - 2ⁿ
 3. Store the results.
 4. Plot or print the comparison.
-5. ### Graph
-
-![Growth Rate Comparison](Images/Toh.png)
 
 
 ### Time Complexity
