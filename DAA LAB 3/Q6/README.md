@@ -1,4 +1,4 @@
-# Loop Invariants in Sorting — Selection Sort
+#Loop Invariants in Sorting — Selection Sort
 
 This README accompanies `Q6.c`, which implements the sorting algorithm
 described below: repeatedly find the smallest element of the
